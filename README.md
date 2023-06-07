@@ -19,7 +19,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 * [About](#about)
 * [Requirements](#requirements)
-* [Trust the process](#Trust the process)
+* [Trust-the-process](#Trust-the-process)
 * [Projects](#projects)
 * [Credits](#credits)
 
@@ -35,7 +35,7 @@ and more!
 * Shellcheck version 0.3.3-1
 * Ubuntu 14.04 LTS
 
-## Trust the process
+## Trust-the-process
 > Onboarding
 >> Onboarding - Getting started
 - Welcome on board
