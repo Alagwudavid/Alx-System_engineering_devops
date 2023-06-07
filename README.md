@@ -85,7 +85,7 @@ and more!
 - Shell, init files, variables and expansions
 
 > Technical Writing and Networking
-* Technical Writing and Networking - Social media
+>> Technical Writing and Networking - `Social media`
 - Professional Relationships
 ## Projects
 
