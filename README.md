@@ -37,7 +37,7 @@ and more!
 
 ## Trust-the-process
 > Onboarding
->> Onboarding - Getting started
+>> Onboarding - `Getting started`
 - Welcome on board
 - Getting hooked on Slack
 - Deep dive into the Intranet
@@ -51,7 +51,7 @@ and more!
 - Preserving your mental health & Conquering imposter syndrome
 - The real buddies
 
-> Onboarding - Tools
+> Onboarding - `Tools`
 - 0x02. Emacs
 - 0x03. vi
 - 0x01. Git
@@ -59,12 +59,12 @@ and more!
 
 > 0-Day
 >> 0-Day - `0-Day`
-1101 0x01. Emacs [May 8 23...May 9 23] - 65.0%
-1100 0x00. Shell, navigation [May 8 23...May 9 23] - 65.0%
-1102 0x02. vi [May 9 23...May 10 23] - 86.88%
-  1 0x03. Git [May 9 23...May 10 23] - 200.0%
-647 0x04. Professional Technologies [May 9 23...May 12 23] - 100.0%
-210 [Optional] Vagrant [May 8 23...May 13 23] - 168.5%
+- 0x01. Emacs
+- 0x00. Shell, navigation
+- 0x02. vi
+- 0x03. Git
+- 0x04. Professional Technologies
+- [Optional] Vagrant
 Low-level programming & Algorithm
 Low-level programming & Algorithm - Hatching out
 212 0x00. C - Hello, World [May 18 23...May 19 23] - 145.28%
