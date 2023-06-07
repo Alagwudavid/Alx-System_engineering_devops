@@ -65,23 +65,26 @@ and more!
 - 0x03. Git
 - 0x04. Professional Technologies
 - [Optional] Vagrant
-Low-level programming & Algorithm
-Low-level programming & Algorithm - Hatching out
-212 0x00. C - Hello, World [May 18 23...May 19 23] - 145.28%
-213 0x01. C - Variables, if, else, while [May 19 23...May 20 23] - 94.29%
-214 0x02. C - Functions, nested loops [May 23 23...May 24 23] - 68.06%
-539 0x03. C - Debugging [May 23 23...May 26 23] - 44.25%
-215 0x04. C - More functions, more nested loops [May 25 23...May 26 23] - 73.94%
-216 0x05. C - Pointers, arrays and strings [May 29 23...May 30 23] - 4.93%
-217 0x06. C - More pointers, arrays and strings [May 31 23...Jun 2 23] - 0.0%
-218 0x07. C - Even more pointers, arrays and strings [Jun 5 23...Jun 6 23] - 0.0%
-System engineering & DevOps
-System engineering & DevOps - Bash
-205 0x00. Shell, basics [May 10 23...May 11 23] - 148.46%
-207 0x01. Shell, permissions [May 11 23...May 12 23] - 107.25%
-208 0x02. Shell, I/O Redirections and filters [May 15 23...May 16 23] - 69.83%
-209 0x03. Shell, init files, variables and expansions [May 16 23...May 17 23] - 13.93%
-Technical Writing and Networking
+
+> Low-level programming & Algorithm
+>> Low-level programming & Algorithm - `Hatching out`
+- C - Hello, World
+- C - Variables, if, else, while
+- C - Functions, nested loops
+- C - Debugging
+- C - More functions, more nested loops
+- C - Pointers, arrays and strings
+- C - More pointers, arrays and strings
+- C - Even more pointers, arrays and strings
+
+> System engineering & DevOps
+>> System engineering & DevOps - `Bash`
+- Shell, basics
+- Shell, permissions
+- Shell, I/O Redirections and filters
+- Shell, init files, variables and expansions
+
+> Technical Writing and Networking
 * Technical Writing and Networking - Social media
 - Professional Relationships
 ## Projects
